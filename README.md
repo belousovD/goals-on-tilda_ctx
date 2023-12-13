@@ -11,7 +11,13 @@
 
 ## 2. Цель на отправку уникальной формы обратной связи с сайта  
 
-Находим уникальный идентификатор формы на странице сайта  
+Находим уникальный идентификатор формы на странице сайта
+
+![find-id-1](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/find-id-1.jpg)  
+
+![find-id-2](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/find-id-2.jpg)  
+
+![find-id-3](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/find-id-3.jpg)  
 
 ![Goal-2.1](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/goal-2.1.png)  
 
