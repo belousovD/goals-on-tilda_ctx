@@ -73,7 +73,7 @@
 
 
 Чтобы определить идентификатор элемента необходимо зайти в редактирование Zero Block, выбрать нужный элемент (кнопка, форма, попап), найти идентификатор (он совпадает по виду с обычными блоками)
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/8vG6HM_VZE8)
+![check-number-in-zero-block](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/check-number-in-zero-block.gif)  
 
 Тип условия: Посещение страницы
 Условие: По аналогии с примерами выше, зависит от выбранного типа цели
