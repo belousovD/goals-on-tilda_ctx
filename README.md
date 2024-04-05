@@ -65,3 +65,15 @@
 Условие (url: содержит): ```tilda/product/detail/710086249671```  
 
 ![Goal-5.2](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/goal-5.2.png)  
+
+## 6. Любая цель с сайта, где используется Zero Block  
+
+Чтобы определить, что перед нами компонент Zero Block, надо обратить внимание на подпись под кнопкой редактирования
+![find-zero-block](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/find-zero-block.png)  
+
+
+Чтобы определить идентификатор элемента необходимо зайти в редактирование Zero Block, выбрать нужный элемент (кнопка, форма, попап), найти идентификатор (он совпадает по виду с обычными блоками)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/8vG6HM_VZE8)
+
+Тип условия: Посещение страницы
+Условие: По аналогии с примерами выше, зависит от выбранного типа цели
