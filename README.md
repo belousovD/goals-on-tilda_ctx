@@ -69,10 +69,12 @@
 ## 6. Любая цель с сайта, где используется Zero Block  
 
 Чтобы определить, что перед нами компонент Zero Block, надо обратить внимание на подпись под кнопкой редактирования
+
 ![find-zero-block](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/find-zero-block.png)  
 
 
 Чтобы определить идентификатор элемента необходимо зайти в редактирование Zero Block, выбрать нужный элемент (кнопка, форма, попап), найти идентификатор (он совпадает по виду с обычными блоками)
+
 ![check-number-in-zero-block](https://github.com/belousovD/goals-on-tilda_ctx/blob/main/files/check-number-in-zero-block.gif)  
 
 Тип условия: Посещение страницы
